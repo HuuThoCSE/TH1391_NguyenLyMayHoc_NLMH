@@ -1,0 +1,11 @@
+ID,Lazy,Deadline,Party,Activity (class)
+1,yes,Urgent,yes,Party
+2,yes,Urgent,no,Study
+3,yes,Near,yes,Party
+4,no,None,yes,Party
+5,yes,None,no,Pub
+6,no,None,yes,Party
+7,no,Near,no,Study
+8,yes,Near,no,Watch TV
+9,yes,Near,yes,Party
+10,no,Urgent,no,Study
